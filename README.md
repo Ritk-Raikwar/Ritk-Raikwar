@@ -31,6 +31,7 @@
   ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
   ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
   ![MLOps](https://img.shields.io/badge/-MLOps-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+  ![DVC](https://img.shields.io/badge/-DVC-13ADC7?style=flat-square&logo=dvc&logoColor=white)
   ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
   ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
   ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
@@ -48,10 +49,10 @@
 
 An interactive data analysis dashboard for Gurgaon real estate market featuring:
 - 📈 Price trend analysis and visualization
-- 🗺️ Location-based insights
-- 🏠 Property type comparisons
+- 🗺️ Insights on feature dependent pricing
+- 🏠 Society Recommendation module
 - 📊 Interactive charts and filters
-- 💡 Data-driven insights for buyers and investors
+- 
 
 **Tech Stack:** Python, Pandas, Streamlit, Plotly/Matplotlib, Scikit-learn, DVC, Cookie-cutter
 
@@ -84,21 +85,12 @@ learning_path = {
 
 <div align="center">
   
-  ![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE?theme=dark&font=Noto%20Sans&ext=heatmap)
+  ![LeetCode Stats](https://leetcard.jacoblin.cool/Ritik_Raikwar_777?theme=dark&font=Noto%20Sans&ext=heatmap)
   
 </div>
 
 ---
 
-<div align="center">
-  
-  ### ⭐️ From [YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-  
-  ![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square)
-  
-  **"Turning data into decisions, one model at a time"** 🚀
-  
-</div>
 
 - ⚡ Fun fact: ...
 -->
