@@ -1,7 +1,7 @@
 # 👋 Welcome to My GitHub Profile!
 
 <div align="center">
-  <img src="![Image](https://github.com/user-attachments/assets/332f32d0-a35c-43bd-80f1-53419011a994)" width="500" alt="Animation"/>
+  <img src="https://github.com/user-attachments/assets/332f32d0-a35c-43bd-80f1-53419011a994" width="500" alt="Animation"/>
   
 </div>
 
