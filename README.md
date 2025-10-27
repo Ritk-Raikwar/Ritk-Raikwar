@@ -52,9 +52,8 @@ An interactive data analysis dashboard for Gurgaon real estate market featuring:
 - 🗺️ Insights on feature dependent pricing
 - 🏠 Society Recommendation module
 - 📊 Interactive charts and filters
-- 
 
-**Tech Stack:** Python, Pandas, Streamlit, Plotly/Matplotlib, Scikit-learn, DVC, Cookie-cutter
+**Tech Stack:** Python, Pandas, Streamlit, Plotly/Matplotlib, Scikit-learn
 
 ---
 
@@ -75,7 +74,6 @@ learning_path = {
 <div align="center">
   
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritikraikwar777/)
-  [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Ritik_Raikwar_777/)
   
 </div>
 
@@ -93,4 +91,4 @@ learning_path = {
 
 
 - ⚡ Fun fact: ...
--->
+--> 
