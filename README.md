@@ -34,7 +34,7 @@
   <tr>
     <td width="30%" valign="top">
       <h3>🔥 Featured Project</h3>
-      <a href="[https://github.com/ritikraikwar777/gurgaon-property-analysis](https://gurgaon-real-estate-dashboard-nysxrs8agzw8iwnbgqnyxf.streamlit.app/)">
+      <a href="https://gurgaon-real-estate-dashboard-nysxrs8agzw8iwnbgqnyxf.streamlit.app/">
         <b>🏘️ Gurgaon Property Dashboard</b>
       </a>
       <br>
