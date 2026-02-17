@@ -1,5 +1,13 @@
 # 👋 Welcome to My GitHub Profile!
 
+<div align="center">
+  <h3>🛠️ Tech Stack & Tools</h3>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/-MLOps-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="MLOps" />
+</div>
+<br>
+
 <table>
   <tr>
     <td width="30%" align="center">
@@ -22,23 +30,9 @@
       </ul>
     </td>
   </tr>
-</table>
-
----
-
-## 🛠️ Tech Stack & Tools
-
-<div align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="Machine Learning" />
-  <img src="https://img.shields.io/badge/-MLOps-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="MLOps" />
-</div>
-
----
-
-<table>
+  
   <tr>
-    <td width="35%" valign="top">
+    <td width="30%" valign="top">
       <h3>🔥 Featured Project</h3>
       <a href="https://github.com/ritikraikwar777/gurgaon-property-analysis">
         <b>🏘️ Gurgaon Property Dashboard</b>
@@ -76,7 +70,7 @@ path = {
 }
 </pre>
     </td>
-    <td width="35%" valign="top">
+    <td width="40%" valign="top">
       <h3>💻 Stats & Connect</h3>
       <div align="center">
         <a href="https://leetcode.com/Ritik_Raikwar_777/">
