@@ -51,23 +51,41 @@ An interactive data analysis dashboard for Gurgaon real estate market featuring:
 
 ---
 
-## 🎯 Current Focus
-
-```python
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎯 Current Focus</h3>
+      <br>
+        <pre lang="python">
 learning_path = {
-    "completed": ["Core Machine Learning", "Data Analysis", "Statistical Modeling"],
-    "in_progress": ["MLOps", "CI/CD for ML", "Model Deployment"],
-    "upcoming": ["Deep Learning", "Neural Networks", "Computer Vision"]
+  "completed": [
+    "Core Machine Learning", 
+    "Data Analysis", 
+    "Statistical Modeling"
+  ],
+  "in_progress": [
+    "MLOps", 
+    "CI/CD for ML", 
+    "Model Deployment"
+  ],
+  "upcoming": [
+    "Deep Learning", 
+    "Neural Networks"
+  ]
 }
-
-🤝 Connect With Me
-<div align="center">
-<a href="https://www.linkedin.com/in/ritikraikwar777/">
-<img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-</div>
-
-💻 LeetCode Stats
-<div align="center">
-<img src="https://leetcard.jacoblin.cool/Ritik_Raikwar_777?theme=dark&font=Noto%20Sans&ext=heatmap" alt="LeetCode Stats"/>
-</div>
+</pre>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💻 LeetCode & Connect</h3>
+      <div align="center">
+        <a href="https://leetcode.com/Ritik_Raikwar_777/">
+          <img src="https://leetcard.jacoblin.cool/Ritik_Raikwar_777?theme=dark&font=Noto%20Sans&ext=heatmap" width="100%" alt="LeetCode Stats"/>
+        </a>
+        <br><br>
+        <a href="https://www.linkedin.com/in/ritikraikwar777/">
+          <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
