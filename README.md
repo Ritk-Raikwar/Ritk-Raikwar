@@ -40,7 +40,7 @@
   <tr>
     <td width="35%" valign="top">
       <h3>🔥 Featured Project</h3>
-      <a href="https://github.com/YOUR_USERNAME/gurgaon-property-analysis">
+      <a href="https://github.com/ritikraikwar777/gurgaon-property-analysis">
         <b>🏘️ Gurgaon Property Dashboard</b>
       </a>
       <br>
@@ -56,11 +56,10 @@
       </ul>
       <b>Stack:</b> Python, Pandas, Streamlit, Plotly, Scikit-learn
     </td>
-    
     <td width="30%" valign="top">
       <h3>🎯 Current Focus</h3>
       <br>
-<pre lang="python">
+<pre>
 path = {
   "done": [
     "Core ML", 
@@ -77,7 +76,6 @@ path = {
 }
 </pre>
     </td>
-    
     <td width="35%" valign="top">
       <h3>💻 Stats & Connect</h3>
       <div align="center">
