@@ -34,7 +34,7 @@
   <tr>
     <td width="30%" valign="top">
       <h3>🔥 Featured Project</h3>
-      <a href="https://gurgaon-real-estate-dashboard-nysxrs8agzw8iwnbgqnyxf.streamlit.app/">
+      <a href="https://github.com/ritikraikwar777/gurgaon-property-analysis">
         <b>🏘️ Gurgaon Property Dashboard</b>
       </a>
       <br>
@@ -52,23 +52,20 @@
     </td>
     <td width="30%" valign="top">
       <h3>🎯 Current Focus</h3>
+      <b>✅ Completed</b>
       <br>
-<pre>
-path = {
-  "done": [
-    "Core ML", 
-    "Data Analysis"
-  ],
-  "doing": [
-    "MLOps", 
-    "CI/CD for ML"
-  ],
-  "next": [
-    "Deep Learning", 
-    "Comp. Vision"
-  ]
-}
-</pre>
+      <img src="https://img.shields.io/badge/-Core%20ML-2ea44f?style=flat-square" />
+      <img src="https://img.shields.io/badge/-Data%20Analysis-2ea44f?style=flat-square" />
+      <br><br>
+      <b>🚧 In Progress</b>
+      <br>
+      <img src="https://img.shields.io/badge/-MLOps-007EC6?style=flat-square" />
+      <img src="https://img.shields.io/badge/-CI%2FCD-007EC6?style=flat-square" />
+      <br><br>
+      <b>🔭 Upcoming</b>
+      <br>
+      <img src="https://img.shields.io/badge/-Deep%20Learning-orange?style=flat-square" />
+      <img src="https://img.shields.io/badge/-Comp%20Vision-orange?style=flat-square" />
     </td>
     <td width="40%" valign="top">
       <h3>💻 Stats & Connect</h3>
@@ -81,6 +78,7 @@ path = {
           <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
         </a>
       </div>
+      
     </td>
   </tr>
 </table>
