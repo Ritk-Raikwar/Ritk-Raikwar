@@ -36,54 +36,57 @@
 
 ---
 
-## 🔥 Featured Projects
-
-### 🏘️ [Gurgaon Property Analysis Dashboard](https://github.com/YOUR_USERNAME/gurgaon-property-analysis)
-**Live on Streamlit:** [View Dashboard](https://gurgaon-real-estate-dashboard-nysxrs8agzw8iwnbgqnyxf.streamlit.app/)
-
-An interactive data analysis dashboard for Gurgaon real estate market featuring:
-- 📈 Price trend analysis and visualization
-- 🗺️ Insights on feature dependent pricing
-- 🏠 Society Recommendation module
-- 📊 Interactive charts and filters
-
-**Tech Stack:** Python, Pandas, Streamlit, Plotly/Matplotlib, Scikit-learn
-
----
-
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="35%" valign="top">
+      <h3>🔥 Featured Project</h3>
+      <a href="https://github.com/YOUR_USERNAME/gurgaon-property-analysis">
+        <b>🏘️ Gurgaon Property Dashboard</b>
+      </a>
+      <br>
+      <a href="https://gurgaon-real-estate-dashboard-nysxrs8agzw8iwnbgqnyxf.streamlit.app/">
+        <img src="https://img.shields.io/badge/View_Live_App-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" height="25"/>
+      </a>
+      <br><br>
+      An interactive dashboard for the Gurgaon real estate market:
+      <ul>
+        <li>📈 Price trend analysis</li>
+        <li>🗺️ Location-based pricing</li>
+        <li>🏠 Society Recommender</li>
+      </ul>
+      <b>Stack:</b> Python, Pandas, Streamlit, Plotly, Scikit-learn
+    </td>
+    
+    <td width="30%" valign="top">
       <h3>🎯 Current Focus</h3>
       <br>
-        <pre lang="python">
-learning_path = {
-  "completed": [
-    "Core Machine Learning", 
-    "Data Analysis", 
-    "Statistical Modeling"
+<pre lang="python">
+path = {
+  "done": [
+    "Core ML", 
+    "Data Analysis"
   ],
-  "in_progress": [
+  "doing": [
     "MLOps", 
-    "CI/CD for ML", 
-    "Model Deployment"
+    "CI/CD for ML"
   ],
-  "upcoming": [
+  "next": [
     "Deep Learning", 
-    "Neural Networks"
+    "Comp. Vision"
   ]
 }
 </pre>
     </td>
-    <td width="50%" valign="top">
-      <h3>💻 LeetCode & Connect</h3>
+    
+    <td width="35%" valign="top">
+      <h3>💻 Stats & Connect</h3>
       <div align="center">
         <a href="https://leetcode.com/Ritik_Raikwar_777/">
           <img src="https://leetcard.jacoblin.cool/Ritik_Raikwar_777?theme=dark&font=Noto%20Sans&ext=heatmap" width="100%" alt="LeetCode Stats"/>
         </a>
         <br><br>
         <a href="https://www.linkedin.com/in/ritikraikwar777/">
-          <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
         </a>
       </div>
     </td>
