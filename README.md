@@ -1,37 +1,37 @@
 # 👋 Welcome to My GitHub Profile!
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/332f32d0-a35c-43bd-80f1-53419011a994" width="500" alt="Animation"/>
-  
-</div>
-
-<div align="center">
-  
-  ### 🤖 Machine Learning Engineer | 📊 Data Scientist | 🚀 MLOps Enthusiast
-  
-</div>
-
----
-
-## 🌟 About Me
-
-- 🎓 Completed **Core Machine Learning**
-- 🔭 Currently learning and practicing **MLOps**
-- 🎯 Next on my roadmap: **Deep Learning**
-- 💻 Building ML solutions and data-driven applications
-- 📊 Passionate about turning data into insights
-- 💡 Always eager to learn and implement cutting-edge ML techniques
+<table>
+  <tr>
+    <td width="30%" align="center">
+      <img src="https://github.com/user-attachments/assets/332f32d0-a35c-43bd-80f1-53419011a994" width="100%" alt="Animation"/>
+    </td>
+    <td width="30%" align="center">
+      <h3>🤖 ML Engineer</h3>
+      <h3>📊 Data Scientist</h3>
+      <h3>🚀 MLOps Enthusiast</h3>
+    </td>
+    <td width="40%" valign="top">
+      <h3>🌟 About Me</h3>
+      <ul>
+        <li>🎓 Completed <b>Core ML</b></li>
+        <li>🔭 Learning <b>MLOps</b></li>
+        <li>🎯 Goal: <b>Deep Learning</b></li>
+        <li>💻 Building ML solutions</li>
+        <li>📊 Turning data into insights</li>
+        <li>💡 Eager to learn tech</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
-  
-  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-  ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-  ![MLOps](https://img.shields.io/badge/-MLOps-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-  
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/-MLOps-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="MLOps" />
 </div>
 
 ---
@@ -59,30 +59,15 @@ learning_path = {
     "in_progress": ["MLOps", "CI/CD for ML", "Model Deployment"],
     "upcoming": ["Deep Learning", "Neural Networks", "Computer Vision"]
 }
-```
 
----
-
-## 🤝 Connect With Me
-
+🤝 Connect With Me
 <div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritikraikwar777/)
-  
+<a href="https://www.linkedin.com/in/ritikraikwar777/">
+<img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 </div>
 
----
-
-## 💻 LeetCode Stats
-
+💻 LeetCode Stats
 <div align="center">
-  
-  ![LeetCode Stats](https://leetcard.jacoblin.cool/Ritik_Raikwar_777?theme=dark&font=Noto%20Sans&ext=heatmap)
-  
+<img src="https://leetcard.jacoblin.cool/Ritik_Raikwar_777?theme=dark&font=Noto%20Sans&ext=heatmap" alt="LeetCode Stats"/>
 </div>
-
----
-
-
-- ⚡ Fun fact: ...
---> 
